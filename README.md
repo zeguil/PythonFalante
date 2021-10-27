@@ -27,16 +27,15 @@ $ pip install -r requirements.txt
 
 # Execute a aplicação
 $ python app.py
-
-
+```
 
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Python](https://www.python.org/)
-- [gTTS](https://gtts.readthedocs.io/en/latest/)
-- [playsound](https://github.com/TaylorSMarks/playsound)
+- [Django](https://www.djangoproject.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
 <br>
 
@@ -44,3 +43,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Se gostou desse projeto, você pode me dar uma xícara de café :) 
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=EAH9AAPCYS94A&no_recurring=0&currency_code=BRL)
+
+
+
