@@ -34,8 +34,8 @@ $ python app.py
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Python](https://www.python.org/)
-- [Django](https://www.djangoproject.com/)
-- [Bootstrap](https://getbootstrap.com/)
+- [gTTS](https://gtts.readthedocs.io/en/latest/)
+- [playsound](https://github.com/TaylorSMarks/playsound)
 
 <br>
 
